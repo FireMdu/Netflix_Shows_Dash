@@ -1,0 +1,8 @@
+venv/
+data/*.sqlite
+notes/
+tutorials/
+.*
+*~
+!.gitignore
+__pycache__/
