@@ -1,0 +1,2 @@
+European Soccer Database,https://www.kaggle.com/hugomathien/soccer
+Netflix Movies and TV Shows,https://www.kaggle.com/shivamb/netflix-shows
