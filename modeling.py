@@ -4,6 +4,7 @@ import pandas as pd
 import sqlite3 as sql
 import pickle
 
+
 class DataReader:
     def save_to_disk(self, filename):
         with open(filename, 'ab') as f:
